@@ -11,4 +11,5 @@ Program developed for HP graphing calculators (HP49g, HP48gII, HP49g+, HP50g) to
 **License:** Free use and distribution, modification not allowed.  
 
 **Publication:** [RLCCONV on hpcalc.org](https://www.hpcalc.org/details/7395)  
-**Demo Video:** [Watch on YouTube](https://www.youtube.com/your_video_link)
+**Demo Video:** [Watch on YouTube](https://www.youtube.com/watch?v=g4D4MdwzEDw&t=413s)
+
