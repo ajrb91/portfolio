@@ -1,3 +1,51 @@
+# 📊 CORFO Approval Modeling – Final Diploma Project
+
+This project was developed as the **final assignment for the Data Science Diploma at Universidad de Santiago de Chile**.  
+It builds a predictive and analytical Machine Learning model aimed at determining the probability that a company will receive **CORFO funding**, based on its characteristics, business attributes, and project features.
+
+The project follows a complete Data Science workflow:  
+**Business Understanding → Data Understanding → Preprocessing → Feature Engineering → Modeling → Evaluation → Insights**
+
+---
+
+## 🏁 1. Project Objective
+
+The primary goal is to identify the key factors that influence the approval of CORFO public funding and to build models capable of:
+
+- Predicting **amount of funding granted** (continuous target)
+- Classifying **approval vs. rejection** (discrete target)
+
+Two dependent variables are used:
+
+- **aprobado_corfo** (continuous)  
+- **estado_aprobacion** (categorical: *Aprobado / No Aprobado*)
+
+The business value lies in understanding **which variables drive CORFO decisions** and how applicants’ characteristics influence fund allocation.
+
+---
+
+## 🗂️ 2. Data Sources
+
+### **CORFO – Data Innova (API Extract)**
+Previously downloaded manually, the project was improved by switching to API extraction to access **complete datasets**, including both approved and non-approved cases.
+
+### **SII – Chilean Internal Revenue Service**
+Complementary business and financial information used to enrich the CORFO dataset.
+
+**Key correction:**  
+Earlier datasets only included *approved* cases, making classification impossible.  
+The project now uses the full dataset including **zero-amount (not approved)** cases, enabling true predictive modeling.
+
+---
+
+## 🧹 3. Data Preparation
+
+### **Creation of the Target Variable**
+To align with business goals, the categorical variable:
+
+estado_aprobacion = Aprobado (aprobado_corfo > 0)
+estado_aprobacion = No Aprobado (aprobado_corfo = 0)
+
 
 ### **Feature Exploration and Cleaning**
 High-cardinality categorical variables were analyzed and processed:
