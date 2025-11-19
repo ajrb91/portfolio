@@ -1,0 +1,9 @@
+En programación, una cadena de caracteres, palabras, ristra de caracteres o frase (string, en inglés) es una secuencia ordenada (de longitud arbitraria, aunque finita) de elementos que pertenecen a un cierto lenguaje formal o alfabeto análogas a una fórmula o a una oración. En general, una cadena de caracteres es una sucesión de caracteres (letras, números u otros signos o símbolos). Si no se ponen restricciones al alfabeto, una cadena podrá estar formada por cualquier combinación finita de los caracteres disponibles (las letras de la 'a' a la 'z' y de la 'A' a la 'Z', los números del '0' al '9', el espacio en blanco ' ', símbolos diversos '!', '@', '%', etcétera).
+
+En este mismo ámbito, se utilizan habitualmente como un tipo de dato predefinido, para palabras, frases o cualquier otra sucesión de caracteres. En este caso, se almacenan en un vector de datos, o matriz de datos de una sola fila (array, en inglés). Las cadenas se pueden almacenar de manera física:
+
+seguidas;
+enlazados letra a letra.
+Generalmente los caracteres se guardan uno a continuación de otro para fines de eficiencia en el acceso.
+
+Un caso especial de cadena es la que contiene cero caracteres. A esta cadena se la llama cadena vacía; en teoría de autómatas, es común representarla por medio de la letra griega {\displaystyle \epsilon }\epsilon .

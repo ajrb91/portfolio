@@ -1,0 +1,3 @@
+Identificación = 9865
+Ubicación = Santiago, Santiago
+Monto = 150.00$
