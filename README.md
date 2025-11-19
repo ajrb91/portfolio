@@ -7,33 +7,6 @@ My work blends **RPA expertise**, **data modeling**, and **clean engineering pra
 
 ---
 
-## 📂 Portfolio Structure
-
-📁 Portfolio/
-│
-├── 00-docs
-│ ├── data-certifications
-│ ├── rpa-certifications
-│ └── other-certifications
-│
-├── 01-data-projects
-│ ├── casen-survey-analysis
-│ ├── corfo-approval-modeling
-│ ├── house-price-prediction
-│ ├── mop-investment-analysis
-│ └── marketing-leads-automation (Business Intelligence)
-│
-├── 02-automation-projects
-│ ├── aai-rpa-challenge-best-practice-version
-│ ├── uipath-rpa-challenge-reframework-version
-│ ├── fast-training-aai-rpa-9-hours
-│ ├── aai-rpa-developer-training-30-hours
-│ └── uipath-rpa-developer-training-40-hours
-│
-└── 03-academic-&-historical-projects
-
----
-
 ## 📊 Data & Machine Learning Projects
 
 Real applied analytics with structured pipelines, EDA, feature engineering, and model evaluation.
