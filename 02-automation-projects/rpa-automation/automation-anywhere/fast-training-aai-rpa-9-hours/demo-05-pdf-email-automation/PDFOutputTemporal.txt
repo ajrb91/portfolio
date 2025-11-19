@@ -1,0 +1,16 @@
+Factura
+EMPRESA REMITENTE SA
+FACTURAR A N° DE FACTURA 102
+CLIENTE 2 SPA FECHA 12/05/2022
+DESCRIPCIÓN IMPORTE
+Producto 1 150
+Producto 2 150
+Producto 3 35
+Producto 4 20
+Producto 5 175
+Producto 3 300
+80
+TOTAL $910
+Gracias
+Condiciones y forma de pago
+El pago se efectuará en 15 días
