@@ -1,5 +1,5 @@
 # 🚀 Amílcar Rodríguez – Automation & Data Engineer  
-### RPA · Data Engineering · Machine Learning · Process Automation
+### RPA · Data Engineering · Machine Learning · Process Automation · Solutions integrator
 
 Welcome to my professional portfolio.  
 Here you will find a curated selection of **automation**, **machine learning**, and **data engineering** projects built with real-world quality standards.  
@@ -9,10 +9,28 @@ My work blends **RPA expertise**, **data modeling**, and **clean engineering pra
 
 ## 📂 Portfolio Structure
 
-01-data-projects
-02-automation-projects
-03-academic-&-historical-projects
-00-docs
+📁 Portfolio/
+│
+├── 00-docs
+│ ├── data-certifications
+│ ├── rpa-certifications
+│ └── other-certifications
+│
+├── 01-data-projects
+│ ├── casen-survey-analysis
+│ ├── corfo-approval-modeling
+│ ├── house-price-prediction
+│ ├── mop-investment-analysis
+│ └── marketing-leads-automation (Business Intelligence)
+│
+├── 02-automation-projects
+│ ├── aai-rpa-challenge-best-practice-version
+│ ├── uipath-rpa-challenge-reframework-version
+│ ├── fast-training-aai-rpa-9-hours
+│ ├── aai-rpa-developer-training-30-hours
+│ └── uipath-rpa-developer-training-40-hours
+│
+└── 03-academic-&-historical-projects
 
 ---
 
@@ -20,10 +38,27 @@ My work blends **RPA expertise**, **data modeling**, and **clean engineering pra
 
 Real applied analytics with structured pipelines, EDA, feature engineering, and model evaluation.
 
-- **CASEN Survey Analysis** – Regression (Lasso, ElasticNet), outlier handling, socio-economic insights  
-- **CORFO Approval Modeling** – Diploma final project, 99–100% accuracy, feature importance analysis  
-- **House Price Prediction** – Lasso regression, RMSE ≈ 21k (5.8% error)  
-- **MOP Investment Analysis** – Public infrastructure data; investment behavior modeling  
+Applied analytics using real datasets from Chile and global sources, including feature engineering, statistical modeling and BI automation.
+
+### ▸ **CASEN Survey Analysis**  
+Regression models (Lasso, ElasticNet), outlier detection, socio-economic analysis over national survey data.
+
+### ▸ **CORFO Approval Modeling** *(Final Diploma Project)*  
+Classification models with 99–100% accuracy. Feature importance, business rules, dataset restructuring, model validation.
+
+### ▸ **House Price Prediction**  
+Lasso regression on the Ames dataset. RMSE ≈ 21k (~5.8% error). Strong performance visualization and feature impact.
+
+### ▸ **MOP Investment Analysis**  
+Public infrastructure dataset profiling and investment behavior modeling.
+
+### ▸ **Marketing Leads Automation – Business Intelligence**  
+A BI-oriented solution combining:
+- Structured data intake (Google Forms)  
+- Sentiment analysis (Python + ChatGPT API)  
+- Automated business rules (Apps Script)  
+- Real-time dashboards (Looker Studio)  
+A complete data-processing + analytics + automation workflow.
 
 ---
 
@@ -41,8 +76,8 @@ Enterprise-grade bots following best practices, modularity, and robust error han
 
 ## 🧰 Core Skills & Tools
 
-**RPA:** Automation Anywhere A360 · UiPath (REFramework) · Power Automate  
-**Data:** Python · Pandas · NumPy · Scikit-Learn · Jupyter  
+**RPA:** Automation Anywhere A360 · UiPath (REFramework) · Power Automate · Blue Prism
+**Data:** Python · Pandas · NumPy · Scikit-Learn · Jupyter · Coolab
 **Engineering:** ETL · AWS S3 · Git · SQL · APIs  
 **Other:** Excel automation · PDF parsing · Email automation · Process design
 
@@ -60,7 +95,7 @@ Enterprise-grade bots following best practices, modularity, and robust error han
 
 ## 📬 Contact
 
-- **LinkedIn:** *(add link)*  
-- **Email:** *(add email)*  
+- **LinkedIn:** *(https://www.linkedin.com/in/amilcar-rodr%C3%ADguez-250779101/)*  
+- **Email:** *(joserba91@gmail.com)*  
 
 ---
