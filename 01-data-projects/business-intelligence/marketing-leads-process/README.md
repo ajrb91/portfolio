@@ -52,6 +52,7 @@ This project presents a lightweight, AI-assisted automation architecture designe
  │ Google Looker Studio   │
  │ (KPIs & Dashboards)    │
  └────────────────────────┘
+```
 
 ## 🧰 Technologies Used
 
